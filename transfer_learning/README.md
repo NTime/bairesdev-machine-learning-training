@@ -6,8 +6,8 @@ This project applies Transfer Learning from a bigger dataset to a smaller one. H
 
 Comments were kept on the new notebook, only code was changed to fit the new dataset:
 
-- Original: Includes original instructions and examples for the task
-- New: Includes new dataset and weights
+- [Original](original_transfer_learning.ipynb): Includes original instructions and examples for the task
+- [New](new_transfer_learning.ipynb): Includes new dataset and weights
 
 # Results
 
