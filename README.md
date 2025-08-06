@@ -8,5 +8,5 @@ ML Bootcamp from [DIO](https://www.dio.me/) in partnership with [BairesDev](http
 
 Each lab has it's own README:
 
-- [x] [Transfer Learning](transfer_earning/)
+- [x] [Transfer Learning](transfer_learning/)
 - [x] [Dimensionality Reduction](/dimensionality_reduction/)
